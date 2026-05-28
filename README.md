@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm gougyyy 👋
 
-<!--
-**gougyyy/gougyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 build random stuff ig
+🧠 learing how to code in every important language
+⚡ i do youtube and projects
 
-Here are some ideas to get you started:
+## Currently Learning
+- python
+- javaScript
+- ai apis
+- automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- build real products
+- scale yt and make businesses
+- create useful NEEDED STUFF / solving problems
