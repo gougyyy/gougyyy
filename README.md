@@ -6,7 +6,7 @@
 
 ## Currently Learning
 - python
-- javaScript
+- javascript
 - ai apis
 - automation
 
@@ -14,3 +14,11 @@
 - build real products
 - scale yt and make businesses
 - create useful NEEDED STUFF / solving problems
+
+## Random Stuff
+- i enjoy music 
+- i really can do anything if i put my mind into it 
+- uhmm thats really it :)
+
+##
+- thank you for reading pls sub to me 
