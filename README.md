@@ -7,7 +7,7 @@
 ---
 
 ## 🎧 what i'm listening to (recents) 
-<p align="center">this is superr dupper slow 5-10 minutues to refresh 😒</p>
+## <p align="center">this is superr dupper slow 5-10 minutues to refresh 😒</p>
 ![Last.fm](./lastfm.svg)
 
 ---
