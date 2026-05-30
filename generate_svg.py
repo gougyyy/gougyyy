@@ -6,12 +6,21 @@ from urllib.request import urlopen
 API_KEY = os.environ.get("LASTFM_API_KEY", "9f251154c3867781aab7e76e80a4f778")
 USER = "gougy130"
  
+DEFAULT_IMG = "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+ 
 def get_image_b64(url):
     try:
         with urlopen(url, timeout=5) as r:
             return base64.b64encode(r.read()).decode()
     except:
         return None
+ 
+def best_image(images):
+    for size in ["extralarge", "large", "medium", "small"]:
+        for i in images:
+            if i.get("size") == size and i.get("#text") and i["#text"] != DEFAULT_IMG:
+                return i["#text"]
+    return None
  
 def get_tracks():
     url = f"https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={USER}&api_key={API_KEY}&format=json&limit=10"
@@ -31,9 +40,8 @@ def get_tracks():
         if key in seen:
             continue
         seen.add(key)
-        img_url = next((i["#text"] for i in t.get("image", []) if i["size"] == "medium"), "")
-        default = "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-        img_b64 = get_image_b64(img_url) if img_url and img_url != default else None
+        img_url = best_image(t.get("image", []))
+        img_b64 = get_image_b64(img_url) if img_url else None
         result.append({"name": name, "artist": artist, "img_b64": img_b64, "np": np})
         if len(result) == 5:
             break
