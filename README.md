@@ -6,7 +6,7 @@
 
 ---
 
-## 🎧 what i'm listening to
+## 🎧 what i'm listening to (recents) 
 
 ![Last.fm](./lastfm.svg)
 
