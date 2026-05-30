@@ -1,24 +1,47 @@
-# Hey, I'm gougyyy 👋
+# hey, i'm gougyyy 👋
 
-🚀 build random stuff ig
-🧠 learing how to code in every important language
-⚡ i do youtube and projects
+🚀 build random stuff ig  
+🧠 learning how to code in every important language  
+⚡ i do youtube and projects  
 
-## Currently Learning
-- python
-- javascript
-- ai apis
-- automation
+---
 
-## Goals
+## 🎧 what i'm listening to
+
+![Last.fm](./lastfm.svg)
+
+---
+
+## 🛠 currently learning
+
+- 🐍 python
+- 🌐 javascript
+- 🤖 ai apis
+- ⚙️ automation
+
+---
+
+## 🎯 goals
+
 - build real products
 - scale yt and make businesses
-- create useful NEEDED STUFF / solving problems
+- create useful, needed stuff — solving real problems
 
-## Random Stuff
-- i enjoy music 
-- i really can do anything if i put my mind into it 
-- uhmm thats really it :)
+---
 
-##
-- thank you for reading pls sub to me 
+## 🎲 random stuff
+
+- i enjoy music
+- i can really do anything if i put my mind to it
+- uhmm that's really it :)
+
+---
+
+## 📺 youtube
+
+> sub if you want to see me build stuff, fail, and figure it out  
+> 🔗 no link YET (soon) 
+
+---
+
+<p align="center">thanks for reading — means a lot 🙏</p>
