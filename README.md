@@ -11,6 +11,7 @@
 ![Last.fm](./lastfm.svg)
 
 ---
+![](./lightyag.gif)
 
 ## 🛠 currently learning
 
