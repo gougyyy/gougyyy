@@ -2,7 +2,7 @@
 
 🚀 build random stuff ig  
 🧠 learning how to code in every important language  
-⚡ i do youtube and projects  
+⚡ i do stuff  
 
 ---
 
@@ -24,8 +24,8 @@
 
 ## 🎯 goals
 
-- build real products
-- scale yt and make businesses
+- be alive ig
+- goated at philo
 - create useful, needed stuff — solving real problems
 
 ---
@@ -40,13 +40,11 @@
 
 ## 📺 youtube
 
-> sub if you want to see me build stuff, fail, and figure it out  
+> sub if you want to see me   
 > 🔗 no link YET (soon) 
 
 ## 💎 life advice
 - believe in yourself
-- we live one life take risk do what you love
-- be that person that wants to change 
 <p align="center">EXAMPLE</p>
 <p align="center"> ⬇️⬇️</p>
 <p align="center">think of how can i change and be the best version of myself</p>
