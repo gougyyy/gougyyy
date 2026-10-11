@@ -45,10 +45,3 @@
 
 ## 💎 life advice
 - believe in yourself
-<p align="center">EXAMPLE</p>
-<p align="center"> ⬇️⬇️</p>
-<p align="center">think of how can i change and be the best version of myself</p>
-
----
-
-<p align="center">thanks for reading — means a lot 🙏</p>
