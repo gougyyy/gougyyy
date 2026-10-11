@@ -45,3 +45,5 @@
 
 ## 💎 life advice
 - believe in yourself
+
+## thanks for reading
